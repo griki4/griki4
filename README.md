@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   我的博客：[点击进入](https://www.yuque.com/xrikis)
   
-  我的GitH：[https://github.com/griki4](https://github.com/griki4)
+  我的github：[https://github.com/griki4](https://github.com/griki4)
 
 ### 不学习就会被拉去打灰
 
