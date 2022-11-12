@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-你好，我是griki4。
+你好，我是griki4。立志成为一名专业的前端切图boy。
 - 学习前端时间：2022.4 - 至今
 
   我的博客：[点击进入](https://www.yuque.com/xrikis)
