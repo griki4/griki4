@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   我的github：[https://github.com/griki4](https://github.com/griki4)
 
-### 不学习就会被拉去打灰
+### 痛苦的根源就是焦虑和惰怠
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griki4)](https://github.com/griki4/github-readme-stats)
 
