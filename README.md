@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-你好，我是griki4。立志成为一名专业的前端切图boy。
+你好，我是griki4。
 - 学习前端时间：2022.4 - 至今
-
+  我的个人网站：[点击进入](https://griki4.github.io/github-actions-demo/)
+  
   我的博客：[点击进入](https://www.yuque.com/xrikis)
   
   我的github：[https://github.com/griki4](https://github.com/griki4)
