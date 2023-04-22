@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 你好，我是griki4。
 - 学习前端时间：2022.4 - 至今
 
-  我的个人网站：[点击进入](https://griki4.github.io/github-actions-demo/)
+  我的个人网站：[点击进入](https://griki4.github.io/nav-website/)
   
   我的博客：[点击进入](https://www.yuque.com/xrikis)
   
